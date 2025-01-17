@@ -43,6 +43,28 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Raviiii-Ai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<p>.............................................................................................................................................................................</p>
+<div align="center">
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Raviiii-Ai&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Raviiii-Ai&theme=chartreuse-dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviiii-Ai&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Raviiii-Ai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+
 
 
 
