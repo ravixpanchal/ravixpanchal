@@ -7,8 +7,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raviiii-Ai&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on [DSA Projects](https://github.com/Raviiii-Ai/DSA-Projects)
-
+# 💫 About Me:
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ravi.panchal](https://linktr.ee/ravi.panchal)
@@ -37,18 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raviiii-Ai&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviiii-Ai&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 💫 About Me:
-🔭 I’m currently working on building LogiCraftX.<br>👯 I’m looking to collaboration.<br>🌱 I’m currently learning DSA with C++ and Machine learning.<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ravi.panchal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-panchal123) 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raviiii-Ai&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
