@@ -1,4 +1,4 @@
-![logo](https://github.com/Blue Modern Professional LinkedIn Banner.png)
+![logo](https://github.com/Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">Web Developer</h3>
 
