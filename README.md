@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviiii-ai&label=Profile%20views&color=0e75b6&style=flat" alt="raviiii-ai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravixpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="ravixpanchal" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ravixpanchal&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
@@ -20,11 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ravi_gsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi_gsv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravi-panchal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-panchal123" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ravi-panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravi-panchal" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_ravi.panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ravi.panchal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravipanchalkaithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravipanchalkaithi" height="30" width="40" /></a>
+<a href="https://x.com/ravixpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi_gsv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravixpanchal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-panchal123" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ravixpanchal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ravi.panchal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ravixpanchal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravipanchalkaithi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ravipanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravipanchal" height="30" width="40" /></a>
 </p>
 
