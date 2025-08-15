@@ -10,7 +10,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ravi.panchal](https://linktr.ee/ravi.panchal)
+- 👨‍💻 All of my projects are available at [https://github.com/ravixpanchal](https://github.com/ravixpanchal)
 
 - 📝 My latest blog [https://ravi-panchal-gsv.blogspot.com/2024/07/blog-post.html](https://ravi-panchal-gsv.blogspot.com/2024/07/blog-post.html)
 
