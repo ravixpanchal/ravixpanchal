@@ -1,4 +1,4 @@
-![logo](https://github.com/ravixpanchal/ravixpanchal/blob/3a077b5cf62bea4dda91cb710f7d55d16ee624a7/leetcode.png)
+![logo](https://github.com/ravixpanchal/ravixpanchal/blob/8c334d69a074feecaf90232545b2838eaebaf255/leetcode.png)
 
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">Web Developer</h3>
