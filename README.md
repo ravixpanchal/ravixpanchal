@@ -1,7 +1,7 @@
 ![logo](https://github.com/ravixpanchal/ravixpanchal/blob/8c334d69a074feecaf90232545b2838eaebaf255/leetcode.png)
 
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">DSA | AI&ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravixpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="ravixpanchal" /> </p>
 
