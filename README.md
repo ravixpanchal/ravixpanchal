@@ -5,15 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravixpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="ravixpanchal" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ravixpanchal&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 # 💫 About Me:
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Advanced DSA & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravixpanchal](https://github.com/ravixpanchal)
-
-- 📝 My latest blog [https://ravi-panchal-gsv.blogspot.com/2024/07/blog-post.html](https://ravi-panchal-gsv.blogspot.com/2024/07/blog-post.html)
 
 - 💬 Ask me about **Btech Student @GSV,Vadodara**
 
