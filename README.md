@@ -2,6 +2,12 @@
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&font=Baloo%202&ext=heatmap)
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode%20Solved&query=solved&url=https://leetcode-badge.vercel.app/api/users/ravixpanchal&logo=leetcode&color=brightgreen)
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&ext=heatmap)
+
 
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">Web Developer</h3>
