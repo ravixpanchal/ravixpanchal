@@ -1,4 +1,8 @@
 ![logo](https://github.com/ravixpanchal/ravixpanchal/blob/3a077b5cf62bea4dda91cb710f7d55d16ee624a7/banner-1.png)
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ravixpanchal?theme=dark&ext=heatmap)
+
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">Web Developer</h3>
 
