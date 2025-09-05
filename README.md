@@ -1,4 +1,4 @@
-![logo](https://github.com/ravixpanchal/ravixpanchal/blob/8c334d69a074feecaf90232545b2838eaebaf255/leetcode.png)
+![logo](https://github.com/ravixpanchal/ravixpanchal/blob/eb69784920e86ba1e12d78e0c19c812dd4ea9942/leetcode-banner.png)
 
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">DSA | AI&ML</h3>
