@@ -16,9 +16,6 @@
 <a href="https://auth.geeksforgeeks.org/user/ravipanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravipanchal" height="30" width="40" /></a>
 </p>
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ravixpanchal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
