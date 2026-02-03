@@ -1,4 +1,7 @@
+```markdown
 ![logo](https://github.com/ravixpanchal/ravixpanchal/blob/a3410e010760c60f4bc3a774335a2663c4d3540e/leetcode250.png)
+
+```
 
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">DSA | AI&ML</h3>
