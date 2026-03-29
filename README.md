@@ -1,4 +1,4 @@
-![logo](https://github.com/ravixpanchal/ravixpanchal/blob/d5275a91ca4072483aaf2c238e3a3862c86b7c9c/Github.png)
+![logo](https://github.com/ravixpanchal/ravixpanchal/blob/a22ebac3db9516d69d6429f99b77e4808ff52989/bg.jpg)
 <h1 align="center">Hi 👋, I'm Ravi Panchal</h1>
 <h3 align="center">DSA | AI&ML</h3>
 
