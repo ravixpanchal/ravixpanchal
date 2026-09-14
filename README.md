@@ -31,15 +31,30 @@
 ![](https://img.shields.io/badge/Research-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
 ![](https://img.shields.io/badge/B.Tech%202027-0d1117?style=for-the-badge&logo=mortarboard&logoColor=e3b341&labelColor=161b22)
 
-<br/> <table> <tr> <td align="center" width="50%">
+<br/>
 
-🎓 Final-year B.Tech <br/> Artificial Intelligence & Data Science <br/> <sub>🟢 Actively seeking full-time & research roles</sub>
+<table>
+<tr>
+<td align="center" width="50%">
 
-</td> <td align="center" width="50%">
+🎓 **Final-year B.Tech**
+<br/>
+Artificial Intelligence & Data Science
+<br/>
+<sub>🟢 Actively seeking full-time & research roles</sub>
 
-💼 AI Intern <br/> BISAG-N, Gandhinagar <br/> <sub>⚡ Summer 2026 · LLM projects on A100 GPUs</sub>
+</td>
+<td align="center" width="50%">
 
-</td> </tr> </table>
+💼 **AI Intern**
+<br/>
+BISAG-N, Gandhinagar
+<br/>
+<sub>⚡ Summer 2026 · LLM projects on A100 GPUs</sub>
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
