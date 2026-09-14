@@ -25,10 +25,16 @@
 <!-- ═══════════════════════════════════════ -->
 <!--             ROLE BADGES                -->
 <!-- ═══════════════════════════════════════ -->
+![](https://img.shields.io/badge/Open%20to%20Work-0d1117?style=for-the-badge&logo=briefcase&logoColor=e3b341&labelColor=161b22)
 ![](https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22)
 ![](https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&logo=databricks&logoColor=3fb950&labelColor=161b22)
 ![](https://img.shields.io/badge/Research-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
 ![](https://img.shields.io/badge/B.Tech%202027-0d1117?style=for-the-badge&logo=mortarboard&logoColor=e3b341&labelColor=161b22)
+
+<br/>
+
+> 🎓 **Final-year B.Tech (AI & DS) student — actively looking for full-time / research opportunities.**
+> Currently interning as an **AI Intern @ BISAG-N, Gandhinagar (Summer 2026)**, working on LLM projects with A100 GPU access.
 
 <br/><br/>
 
@@ -67,7 +73,7 @@
 
 | 🏅 GFG Rank | 📈 CGPA | 📄 Research | 🏛️ Internships |
 |:-----------:|:-------:|:-----------:|:--------------:|
-| **Institute #1** | **8.44** | **Railway Safety Paper** | **AAI · DRM Jhansi** |
+| **Institute #1** | **8.46** | **Railway Safety Paper** | **BISAG-N · AAI · DRM Jhansi** |
 
 <br/>
 
@@ -108,7 +114,7 @@
 
 <br/>
 
-📫 **Reach me:** [ravi.panchal.kaithi@gmail.com](mailto:ravi.panchal.kaithi@gmail.com)
+🌐 **Portfolio:** [ravixpanchal.tech](https://ravixpanchal.tech) &nbsp;·&nbsp; 📫 **Reach me:** [ravi.panchal.kaithi@gmail.com](mailto:ravi.panchal.kaithi@gmail.com)
 
 <br/>
 
@@ -122,6 +128,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=161b22)](https://ravixpanchal.tech)
+&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=1d9bf0&labelColor=161b22)](https://x.com/ravixpanchal)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/ravixpanchal/)
