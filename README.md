@@ -50,7 +50,7 @@ AI & Data Science
 <br/>
 BISAG-N, Gandhinagar
 <br/><br/>
-⚡ <sub>Summer 2026 · LLM projects on A100 GPUs</sub>
+⚡ <sub>Summer 2026 · RAG Chatbot</sub>
 
 </td>
 </tr>
