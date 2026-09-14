@@ -35,22 +35,22 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 🎓 **Final-year B.Tech**
 <br/>
-Artificial Intelligence & Data Science
-<br/>
-<sub>🟢 Actively seeking full-time & research roles</sub>
+AI & Data Science
+<br/><br/>
+🟢 <sub>Actively seeking full-time & research roles</sub>
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 💼 **AI Intern**
 <br/>
 BISAG-N, Gandhinagar
-<br/>
-<sub>⚡ Summer 2026 · LLM projects on A100 GPUs</sub>
+<br/><br/>
+⚡ <sub>Summer 2026 · LLM projects on A100 GPUs</sub>
 
 </td>
 </tr>
