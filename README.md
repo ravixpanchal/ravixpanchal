@@ -34,7 +34,7 @@
 <br/>
 
 > 🎓 **Final-year B.Tech (AI & DS) student — actively looking for full-time / research opportunities.**
-> Currently interning as an **AI Intern @ BISAG-N, Gandhinagar (Summer 2026)**, working on LLM projects with A100 GPU access.
+> Currently interning as an **AI Intern @ BISAG-N, Gandhinagar (Summer 2026)**.
 
 <br/><br/>
 
