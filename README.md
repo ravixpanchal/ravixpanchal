@@ -52,15 +52,6 @@
 
 <br/>
 
-**📈 GitHub Stats**
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravixpanchal&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_color=21262d&hide_border=false&border_radius=8" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravixpanchal&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=21262d&hide_border=false&border_radius=8" width="47%"/>
-
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════ -->
