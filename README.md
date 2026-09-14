@@ -31,10 +31,15 @@
 ![](https://img.shields.io/badge/Research-0d1117?style=for-the-badge&logo=googlescholar&logoColor=bc8cff&labelColor=161b22)
 ![](https://img.shields.io/badge/B.Tech%202027-0d1117?style=for-the-badge&logo=mortarboard&logoColor=e3b341&labelColor=161b22)
 
-<br/>
+<br/> <table> <tr> <td align="center" width="50%">
 
-> 🎓 **Final-year B.Tech (AI & DS) student — actively looking for full-time / research opportunities.**
-> Currently interning as an **AI Intern @ BISAG-N, Gandhinagar (Summer 2026)**.
+🎓 Final-year B.Tech <br/> Artificial Intelligence & Data Science <br/> <sub>🟢 Actively seeking full-time & research roles</sub>
+
+</td> <td align="center" width="50%">
+
+💼 AI Intern <br/> BISAG-N, Gandhinagar <br/> <sub>⚡ Summer 2026 · LLM projects on A100 GPUs</sub>
+
+</td> </tr> </table>
 
 <br/><br/>
 
