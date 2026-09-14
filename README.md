@@ -41,7 +41,7 @@
 <br/>
 AI & Data Science
 <br/><br/>
-🟢 <sub>Actively seeking full-time & research roles</sub>
+🟢 <sub>Actively seeking full-time roles</sub>
 
 </td>
 <td align="center" valign="top" width="50%">
